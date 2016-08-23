@@ -1,0 +1,52 @@
+---
+title: "Boston Trip"
+date: 2016-08-22 08:33:00 -0500
+excerpt: "My work trip to Boston."
+categories: update
+header:
+  overlay_image: bos_cath.jpg
+  overlay_filter: .03
+gallery:
+  - url: bos_cath.jpg
+    image_path: bos_cath.jpg
+    alt: "Boston's First Church of Christ, Scientist"
+    title: "Boston's First Church of Christ, Scientist"
+  - url: bos_cath-1.jpg
+    image_path: bos_cath-1.jpg
+    alt: "Boston's First Church of Christ, Scientist Entry"
+    title: "Boston's First Church of Christ, Scientist Entry"
+  - url: bos_chinatown.jpg
+    image_path: bos_chinatown.jpg
+    alt: "Boston's Chinatown"
+    title: "Boston's Chinatown"
+  - url: bos_lib-1.jpg
+    image_path: bos_lib-1.jpg
+    alt: "Boston Public Library"
+    title: "Boston Public Library"
+  - url: bos_lib_singer_1.jpg
+    image_path: bos_lib_singer_1.jpg
+    alt: "Sargent murals The Messianic Age"
+    title: "Boston Public Library"
+  - url: bos_lib_singer_2.jpg
+    image_path: bos_lib_singer_2.jpg
+    alt: "Sargent's The Isrealite's Oppressed and Frieze of the Prophets"
+    title: "Sargent's The Isrealite's Oppressed and Frieze of the Prophets"
+  - url: bos_lib-2.jpg
+    image_path: bos_lib-2.jpg
+    alt: "Boston Public Library"
+    title: "Boston Public Library"
+  - url: bos_lib-3.jpg
+    image_path: bos_lib-3.jpg
+    alt: "Boston Public Library"
+    title: "Boston Public Library"
+  - url: chad_me_bos.jpg
+    image_path: chad_me_bos.jpg
+    alt: "Chad and me in Boston"
+    title: "Chad and me in Boston"
+---
+
+Last week I had to travel to Boston for work and help MassDOT with using our system for over-dimensional truck permitting. Over all it was a great trip, even though I did have to be up at 5am EST everyday last week. But even with that looming over me each day I managed to get out and see some of the sites. Unfortunately my phone died a few times later into the night thanks to the long work days, so not many pictures were taken. But I did get to see the Boston Public Library and the John Singer Sargent murals there, I made it to Chinatown, the Northend, the Westend, Newbury Street, I took a duck tour, and ate some fantastic food. On Wednesday, my friend Chad from NYC surprised me and showed up in Boston on his way to New Hampshire as well.
+
+{% include gallery class="full" caption="Some photos from Boston." %}
+
+Some more info about the [Gallery of Sargent Murlas at BPL](http://www.jssgallery.org/Essay/BPL/Floor_planL2.html#Pic) can be found on the linked page.
